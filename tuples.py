@@ -18,4 +18,4 @@ def create_record(azara_record, rui_record):
     if position == point:
         return what,position,place,point,colour
     else:
-        return "No coincidence"
+        return "Not match"
